@@ -9,13 +9,13 @@ This base code is to get you started with Chapter 1 for the ASP.NET Security Tra
 ### Each student <span style="color: green;">MUST</span>:
 - Complete each chapter individually.  
 - Commit often to demonstrate genuine effort in following the instructional video’s code.
-- Once a chapter is completed, download it from Github and submit on Lea. 
+- Once chapter 1+2 is completed, download it from Github and submit on Lea. Do the same for Chapter 3 + 4. 
   
 
 ### Each student must <span style="color: red;">MUST NOT</span>:
 - Copy and paste code found in the exercise files section or found online 
 - Share their code with other students. 
-- Do not make this github project public. Wait until the course ends completely. 
+- Make this github project public (bad). Keep it private (good), until the course ends completely. 
 - Use AI tools to autocomplete the code.  
 
 
