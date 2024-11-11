@@ -13,8 +13,9 @@ This base code is to get you started with Chapter 1 for the ASP.NET Security Tra
   
 
 ### Each student must <span style="color: red;">MUST NOT</span>:
-- Copy and paste code found online.  
-- Share their code with other students.  
+- Copy and paste code found in the exercise files section or found online 
+- Share their code with other students. 
+- Do not make this github project public. Wait until the course ends completely. 
 - Use AI tools to autocomplete the code.  
 
 
