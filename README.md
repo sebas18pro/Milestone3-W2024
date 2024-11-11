@@ -1,19 +1,18 @@
-# Web3_Security_Start
+# Web3 Security Start
 
-Welcome students
+## Welcome students
 This base code is to get you started with Chapter 1 for the ASP.NET Security Training course:
-https://www.linkedin.com/learning/security-in-asp-dot-net-core/
+[Security in ASP.NET Core](https://www.linkedin.com/learning/security-in-asp-dot-net-core/)
 
-Instructions:
+## Instructions:
 
-Each student MUST:
-- complete each chapter individually.
-- commit often to show a genuine effort of following the instructional videos code.
+### Each student MUST:
+- Complete each chapter individually.  
+- Commit often to demonstrate genuine effort in following the instructional video’s code.  
 
+### Each student must NOT:
+- Copy and paste code found online.  
+- Share their code with other students.  
+- Use AI tools to autocomplete the code.  
 
-Each student must NOT:
-- copy and paste code already found online or from
-- share their code with any other students
-- use AI tools to autocomplate the code.
-
-Have fun! :) 
+## Have fun! 😊  
