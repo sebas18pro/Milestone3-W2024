@@ -9,6 +9,7 @@ This base code is to get you started with Chapter 1 for the ASP.NET Security Tra
 ### Each student <span style="color: green;">MUST</span>:
 - Complete each chapter individually.  
 - Commit often to demonstrate genuine effort in following the instructional video’s code.
+- Once a chapter is completed, download it from Github and submit on Lea. 
   
 
 ### Each student must <span style="color: red;">MUST NOT</span>:
